@@ -13,8 +13,8 @@
 		6371BB01245AA7E50053BD97 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6371BAFF245AA7E50053BD97 /* Main.storyboard */; };
 		6371BB06245AA7E50053BD97 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6371BB05245AA7E50053BD97 /* Assets.xcassets */; };
 		6371BB09245AA7E50053BD97 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6371BB07245AA7E50053BD97 /* LaunchScreen.storyboard */; };
-		6371BB13245AA9B20053BD97 /* data.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6371BB12245AA9B20053BD97 /* data.plist */; };
 		6371BB16245AF9290053BD97 /* CarModels.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6371BB14245AF9290053BD97 /* CarModels.xcdatamodeld */; };
+		6371BB1C245B2F8C0053BD97 /* data.plist in Resources */ = {isa = PBXBuildFile; fileRef = 6371BB1B245B2F8C0053BD97 /* data.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,8 +26,8 @@
 		6371BB05245AA7E50053BD97 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6371BB08245AA7E50053BD97 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6371BB0A245AA7E50053BD97 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		6371BB12245AA9B20053BD97 /* data.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = data.plist; path = ../../MyCars/MyCars/data.plist; sourceTree = "<group>"; };
 		6371BB15245AF9290053BD97 /* CarModels.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CarModels.xcdatamodel; sourceTree = "<group>"; };
+		6371BB1B245B2F8C0053BD97 /* data.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = data.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,8 +66,8 @@
 				6371BAFF245AA7E50053BD97 /* Main.storyboard */,
 				6371BB05245AA7E50053BD97 /* Assets.xcassets */,
 				6371BB07245AA7E50053BD97 /* LaunchScreen.storyboard */,
-				6371BB12245AA9B20053BD97 /* data.plist */,
 				6371BB0A245AA7E50053BD97 /* Info.plist */,
+				6371BB1B245B2F8C0053BD97 /* data.plist */,
 				6371BB14245AF9290053BD97 /* CarModels.xcdatamodeld */,
 			);
 			path = CarModels;
@@ -133,7 +133,7 @@
 			files = (
 				6371BB09245AA7E50053BD97 /* LaunchScreen.storyboard in Resources */,
 				6371BB06245AA7E50053BD97 /* Assets.xcassets in Resources */,
-				6371BB13245AA9B20053BD97 /* data.plist in Resources */,
+				6371BB1C245B2F8C0053BD97 /* data.plist in Resources */,
 				6371BB01245AA7E50053BD97 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
