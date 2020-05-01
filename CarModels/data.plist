@@ -5,7 +5,7 @@
 	<dict>
 		<key>rating</key>
 		<real>5</real>
-		<key>myChoice</key>
+		<key>myCoice</key>
 		<false/>
 		<key>tintColor</key>
 		<dict>
@@ -30,7 +30,7 @@
 	<dict>
 		<key>rating</key>
 		<real>5</real>
-		<key>myChoice</key>
+		<key>myCoice</key>
 		<true/>
 		<key>tintColor</key>
 		<dict>
@@ -55,7 +55,7 @@
 	<dict>
 		<key>rating</key>
 		<real>5</real>
-		<key>myChoice</key>
+		<key>myCoice</key>
 		<false/>
 		<key>tintColor</key>
 		<dict>
@@ -80,7 +80,7 @@
 	<dict>
 		<key>rating</key>
 		<real>5</real>
-		<key>myChoice</key>
+		<key>myCoice</key>
 		<false/>
 		<key>tintColor</key>
 		<dict>
@@ -105,7 +105,7 @@
 	<dict>
 		<key>rating</key>
 		<real>5</real>
-		<key>myChoice</key>
+		<key>myCoice</key>
 		<false/>
 		<key>tintColor</key>
 		<dict>
